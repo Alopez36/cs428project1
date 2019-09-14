@@ -1,4 +1,4 @@
 # cs428project1
 
-![cover1](https://user-images.githubusercontent.com/35465848/64902412-7d639100-d66c-11e9-80cd-bb56ec012df4.png)
-![back_cvr](https://user-images.githubusercontent.com/35465848/64902377-97e93a80-d66b-11e9-95ff-a55830a40792.png)
+![cover](https://user-images.githubusercontent.com/35465848/64902432-c87da400-d66c-11e9-992f-91e57dec9342.jpg)
+![back_cvr](https://user-images.githubusercontent.com/35465848/64902435-e0552800-d66c-11e9-9e2c-815806224df0.png)
